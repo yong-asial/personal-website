@@ -28,31 +28,37 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: yong.sopheaktra
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: sopheaktra-yong-8a897935
   # mastodon: your_username
-  # medium: your_username
+  medium: sopheaktra.yong
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: SopheaktraY
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Go
+    web_url: https://github.com/golang/go
+    image_url: https://golang.org/lib/godoc/images/go-logo-blue.svg
 
-  - name: Web design
+  - name: Deno
+    web_url: https://github.com/denoland
+    image_url: https://deno.land/logo.svg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: microservice
+    web_url: https://en.wikipedia.org/wiki/Microservices
+    image_url: https://hsto.org/getpro/habr/post_images/287/fa2/ee0/287fa2ee0642f5411410b78c86702e82.jpg
+
+  - name: kubernetes
+    web_url: https://kubernetes.io/
+    image_url: https://kubernetes.io/images/favicon.png
